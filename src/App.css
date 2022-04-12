@@ -1,0 +1,17 @@
+/* .container-nav {
+   max-width: 800px;
+    align-items: center;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: black;
+}
+
+
+  */
+
+ .HeroSection {
+   height: 90vh;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+ }
